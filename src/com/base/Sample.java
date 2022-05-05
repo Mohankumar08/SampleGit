@@ -6,5 +6,11 @@ public class Sample {
 		System.out.println("Hello");
 		System.out.println("Welcome to Java");
 		System.out.println("~~~~~~~~~~~~~~");
+		System.out.println("--------------");
+		System.out.println("Welcome Java");
+		System.out.println("Selenium");
+		System.out.println("python");
+		System.out.println("~~~~~~~~~~~~~~~~~~");
+
 	}
 }
